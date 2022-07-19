@@ -1,0 +1,34 @@
+/* 1 - Coloque todo o CSS criado até agora nos exercícios anteriores em um arquivo externo. */
+h1 {
+    font-family: sans-serif;
+    text-decoration: overline;
+    text-align: right;
+}
+
+p {
+    font-weight: 600;
+    font-size: 3em;
+    font-style: italic;
+    line-height: 0%;
+    text-decoration: overline;
+    text-align: center;
+}
+
+
+body {
+    font-size: 16px;
+    text-align: center;
+}
+
+#amarelo {
+    background-color: yellow;
+    color: black;
+}
+
+#vermelho {
+    background-color: red;
+}
+
+#marrom {
+    background-color: brown;
+}
