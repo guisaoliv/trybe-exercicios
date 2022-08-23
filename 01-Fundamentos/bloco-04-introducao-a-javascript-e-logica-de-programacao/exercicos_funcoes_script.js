@@ -60,4 +60,3 @@ function maiorNome(array) {
 
 maiorNome(['José', 'Lucas', 'Nádia', 'Fernanda', 'Cairo', 'Joana'])
 
- 
